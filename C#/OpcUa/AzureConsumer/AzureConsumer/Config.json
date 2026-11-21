@@ -1,0 +1,7 @@
+﻿{
+  "azure": {
+    "eventHubConnectionString": "",
+    "eventHubName": "",
+    "consumerGroup": "$Default"
+  }
+}

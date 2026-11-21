@@ -1,0 +1,13 @@
+{
+  "mqtt": {
+    "host": "localhost",
+    "port": 1883,
+    "username": "",
+    "password": "",
+    "topic": "telemetry/#",
+    "clientId": "pi-gateway"
+  },
+  "azure": {
+    "deviceConnectionString": "HostName=Jermaine-IoT-hub.azure-devices.net;DeviceId=pi-gateway;SharedAccessKey=0Foq2Ibir5116e4TI4mJytsFYtHTfRGSr5dqa9VZO1g="
+  }
+}
