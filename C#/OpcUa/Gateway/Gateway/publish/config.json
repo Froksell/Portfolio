@@ -8,6 +8,6 @@
     "clientId": "pi-gateway"
   },
   "azure": {
-    "deviceConnectionString": "HostName=Jermaine-IoT-hub.azure-devices.net;DeviceId=pi-gateway;SharedAccessKey=0Foq2Ibir5116e4TI4mJytsFYtHTfRGSr5dqa9VZO1g="
+    "deviceConnectionString": ""
   }
 }
